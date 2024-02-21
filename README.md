@@ -6,6 +6,7 @@ github：https://peterjackson0107.github.io/20231129-tokyo/
 github 讀取 Vue.js 會空白，所以 Vue.js 的東西都部屬在 netlify
 
 netlify：https://joyful-crumble-d80c0e.netlify.app/ (ウェブがここで)
+
 ## 專案技術 (プログラミング言語)
 - HTML
 - CSS
